@@ -16,7 +16,7 @@
 - ALT + G  :  Daftar Gambar Otomatis
 - ALT + T  :   Daftar Tabel Otomatis
 - ALT + B  :  Section Break
-  
+
 - ~~ALT + V   :  Section Break Fix~~
 
 ---
