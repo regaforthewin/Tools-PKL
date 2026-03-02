@@ -1,14 +1,14 @@
 ### List Shortcut
 
-- ALT + F  :  Format Margins, Heading, Numbering
-- ALT + 1  :  Heading 1
-- ALT + 2  :  Heading 2
-- ALT + 3  :  Heading 3
+- ALT + F  :  Format Margins, Heading, Numbering. Gunakan ini terlebih dahulu sebelum memulai.
+- ALT + 1  :  Heading 1, untuk BAB utama     -> KATA PENGANTAR, BAB I, LAMPIRAN
+- ALT + 2  :  Heading 2, untuk Sub-BAB         -> 1.1 Latar Belakang, 2.1 Sejarah....
+- ALT + 3  :  Heading 3, untuk Sub-Sub-BAB  -> 2.1.1 Visi-Misi....
 - ALT + SHIFT + 2  :  Heading 2 Normal (Paragraf di dalam Heading 2)
 - ALT + SHIFT + 3  :  Heading 3 Normal (Paragraf di dalam Heading 3)
 - ALT + L   : Heading 2 Bold tanpa Angka-- Seperti Untuk Lampiran
 - ALT + R  :  Reset Heading 1
-- ALT + H  :  Lembar Halaman
+- ALT + H  :  Menambah Angka Halaman
 - ALT + SHIFT + H  :  Reset Halaman ke Angka Arab, Beserta Heading 1, letakkan kursor di lembar yang ingin di reset -> contoh BAB I
 - ALT + D  :  Daftar Isi Otomatis
 - ALT + SHIFT + G  :  Caption Gambar
@@ -16,9 +16,7 @@
 - ALT + G  :  Daftar Gambar Otomatis
 - ALT + T  :   Daftar Tabel Otomatis
 - ALT + B  :  Section Break
-
-- ~~ALT + V   :  Section Break Fix~~
-
+  
 ---
 
 - [x] Automatic Heading 1-3 Position and Format ✅ 2025-11-17
@@ -42,11 +40,11 @@
 	  ~~Its actually a pretty bad idea and works problematically~~
 	  Wait ill have different implementation, because its actually needed!
 	  Buat menjadi shortcut?? jadi search trough every heading 1, if found then move cursor to the previous page really edge, add section break, if section > 1 ofc ^730c46
-- [ ] Automatic Table of Content!! Based on our my own *good* format rather than default word!!
+- [x] Automatic Table of Content!! Based on our my own *good* format rather than default word!! ✅ 2025-12-12
 	- [x] Basic Heading 1 -> 3 ✅ 2025-12-02
 	- [x] Table Of Figures ✅ 2025-12-03
-	- [ ] List Lampiran?? didalam chapter LAMPIRAN -- **Buat style untuk laporan**
-- [ ] Buat Universal Frame, whatchacalit table of Figures yes ^dca103
+	- [x] List Lampiran?? didalam chapter LAMPIRAN -- **Buat style untuk laporan** ✅ 2025-12-12
+- [x] Buat Universal Frame, whatchacalit table of Figures yes ✅ 2025-12-12 ^dca103
 	- [x] Photo frame complete with with the description -- Both are partially done, just not yet with the desc ✅ 2025-12-03
 	- [x] Table frame complete with the description ✅ 2025-12-03
 - [ ] Abstract Txt Style
@@ -64,3 +62,6 @@
 	- [ ] make undo button works after macroing
 	- [ ] Shortcut increase paragraph indent incase tabs doesnt work
 - [ ] Bug Testing
+- [ ] ???
+- [ ] Profit...!!!
+
